@@ -29,3 +29,16 @@
 .backlinks {
   display: none !important;
 }
+
+/* 让深层标题更显眼 */
+.popover-hint h5 {
+  font-size: 1.1rem !important;
+  font-weight: 600 !important;
+  margin-top: 1.5rem !important;
+}
+
+.popover-hint h6 {
+  font-size: 1rem !important;
+  font-weight: 600 !important;
+  margin-top: 1.2rem !important;
+}
