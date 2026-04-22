@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026_基于肉鸽卡牌的RPG产品构思.md",
+                "file": "2026_《卡厄思梦境》深度拆解.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "2026_基于肉鸽卡牌的RPG产品构思"
+              "title": "2026_《卡厄思梦境》深度拆解"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2026_基于肉鸽卡牌的RPG产品构思.md",
+                "file": "2026_《卡厄思梦境》深度拆解.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026_基于肉鸽卡牌的RPG产品构思 的大纲"
+              "title": "2026_《卡厄思梦境》深度拆解 的大纲"
             }
           }
         ],
@@ -172,12 +172,17 @@
   },
   "active": "2d8837e6263008e3",
   "lastOpenFiles": [
-    "index.md",
-    "2026_基于肉鸽卡牌的RPG产品构思.md",
-    "2026_基于肉鸽卡牌玩法的RPG产品构思.md",
     "2026_《卡厄思梦境》深度拆解.pdf",
     "2024_《幻兽帕鲁》游戏分析及网游化思考.pdf",
     "2019_《明日方舟》战斗策略分析与问题建议.pdf",
+    "2026_《卡厄思梦境》深度拆解.md",
+    "Assets/2026_《卡厄思梦境》深度拆解.pdf",
+    "Assets/2024_《幻兽帕鲁》游戏分析及网游化思考.pdf",
+    "Assets/2019_《明日方舟》战斗策略分析与问题建议.pdf",
+    "战斗核心玩法向策划自荐作品.pdf",
+    "2026_基于肉鸽卡牌的RPG产品构思.md",
+    "index.md",
+    "2026_基于肉鸽卡牌玩法的RPG产品构思.md",
     "Assets/微恐元素8.jpg",
     "Assets/微恐元素2.jpg",
     "Assets/微恐元素1.jpg",
@@ -192,8 +197,6 @@
     "Assets",
     "新建文件夹",
     "产品观察和拆解/Some note.md",
-    "产品观察和拆解/index.md",
-    "崩溃图片1.jfif",
-    "产品观察和拆解"
+    "产品观察和拆解/index.md"
   ]
 }
