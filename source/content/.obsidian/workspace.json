@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "产品观察和拆解/基于肉鸽卡牌玩法的RPG产品构思.md",
-                "mode": "preview",
+                "file": "index.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "基于肉鸽卡牌玩法的RPG产品构思"
+              "title": "index"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "产品观察和拆解/基于肉鸽卡牌玩法的RPG产品构思.md",
+                "file": "index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "基于肉鸽卡牌玩法的RPG产品构思 的大纲"
+              "title": "index 的大纲"
             }
           }
         ],
@@ -166,11 +166,17 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:新建数据库": false
+      "bases:新建数据库": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "2d8837e6263008e3",
   "lastOpenFiles": [
+    "产品观察和拆解/2026_基于肉鸽卡牌玩法的RPG产品构思.md",
+    "产品观察和拆解/2026_《卡厄思梦境》深度拆解.pdf",
+    "产品观察和拆解/2024_《幻兽帕鲁》游戏分析及网游化思考.pdf",
+    "产品观察和拆解/2019_《明日方舟》战斗策略分析与问题建议.pdf",
+    "index.md",
     "Assets/微恐元素8.jpg",
     "Assets/微恐元素2.jpg",
     "Assets/微恐元素1.jpg",
@@ -181,15 +187,12 @@
     "Assets/怪物火车2介绍封面.webp",
     "Assets/边狱巴士完整战斗演示版.webp",
     "Assets/崩溃图片2.jpg",
-    "Assets/崩溃图片1.jpg",
     "Assets/崩溃图片1.jfif",
     "Assets",
     "新建文件夹",
     "产品观察和拆解/Some note.md",
-    "产品观察和拆解/基于肉鸽卡牌玩法的RPG产品构思.md",
     "产品观察和拆解/index.md",
     "崩溃图片1.jfif",
-    "index.md",
     "产品观察和拆解"
   ]
 }
