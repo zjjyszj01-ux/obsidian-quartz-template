@@ -31,7 +31,7 @@ export const defaultContentPageLayout: PageLayout = {
   ],
   right: [
     Component.Graph(),
-    Component.DesktopOnly(Component.TableOfContents({ maxDepth: 6 })),
+    Component.DesktopOnly(Component.TableOfContents({ minDepth: 1, maxDepth: 6, collapseByDefault: false })),
     Component.Backlinks(),
   ],
 }
