@@ -3,7 +3,7 @@
 // put your custom CSS here!
 /* 整体页面最大宽度 */
 .page {
-  max-width: 1700px !important;
+  max-width: 1600px !important;
 }
 
 /* 左侧栏宽度 */
@@ -19,4 +19,13 @@
 /* 中间内容区域最大宽度 */
 .center {
   max-width: 900px !important;
+}
+
+/* 去除页面中的多余内容组件 */
+.graph {
+  display: none !important;
+}
+
+.backlinks {
+  display: none !important;
 }
