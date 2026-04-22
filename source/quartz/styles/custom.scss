@@ -14,6 +14,13 @@
 /* 右侧栏宽度 */
 .right.sidebar {
   width: 350px !important;
+  width: 350px !important;
+}
+
+/* 目录完整显示所有标题 */
+.toc {
+  max-height: none !important;
+  overflow-y: visible !important;
 }
 
 /* 中间内容区域最大宽度 */
@@ -31,13 +38,13 @@
 }
 
 /* 让深层标题更显眼 */
-.popover-hint h5 {
+.popover-hint h4 {
   font-size: 1.1rem !important;
   font-weight: 600 !important;
   margin-top: 1.5rem !important;
 }
 
-.popover-hint h6 {
+.popover-hint h5 {
   font-size: 1rem !important;
   font-weight: 600 !important;
   margin-top: 1.2rem !important;
