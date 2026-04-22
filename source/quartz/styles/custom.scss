@@ -47,8 +47,6 @@
 }
 /* 只让PDF页面全宽显示 */
 iframe[src*=".pdf"] {
-  width: 100vw !important;
-  max-width: 100vw !important;
-  margin-left: calc(-50vw + 50%) !important;
   height: 90vh !important;
+  border: none !important;
 }
