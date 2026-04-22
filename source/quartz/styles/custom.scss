@@ -45,3 +45,10 @@
 .toc li li li li {
   display: list-item !important;
 }
+/* 只让PDF页面全宽显示 */
+iframe[src*=".pdf"] {
+  width: 100vw !important;
+  max-width: 100vw !important;
+  margin-left: calc(-50vw + 50%) !important;
+  height: 90vh !important;
+}
