@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026_基于肉鸽卡牌玩法的RPG产品构思.md",
+                "file": "2026_基于肉鸽卡牌的RPG产品构思.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026_基于肉鸽卡牌玩法的RPG产品构思"
+              "title": "2026_基于肉鸽卡牌的RPG产品构思"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2026_基于肉鸽卡牌玩法的RPG产品构思.md",
+                "file": "2026_基于肉鸽卡牌的RPG产品构思.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026_基于肉鸽卡牌玩法的RPG产品构思 的大纲"
+              "title": "2026_基于肉鸽卡牌的RPG产品构思 的大纲"
             }
           }
         ],
@@ -170,9 +170,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b77831b90dd9f87b",
+  "active": "2d8837e6263008e3",
   "lastOpenFiles": [
     "index.md",
+    "2026_基于肉鸽卡牌的RPG产品构思.md",
     "2026_基于肉鸽卡牌玩法的RPG产品构思.md",
     "2026_《卡厄思梦境》深度拆解.pdf",
     "2024_《幻兽帕鲁》游戏分析及网游化思考.pdf",
