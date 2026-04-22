@@ -37,3 +37,11 @@
   display: none !important;
 }
 
+/* 强制让目录显示所有层级 */
+.toc .depth-4,
+.toc .depth-5,
+.toc .depth-6,
+.toc li li li,
+.toc li li li li {
+  display: list-item !important;
+}
