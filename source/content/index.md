@@ -1,7 +1,8 @@
 ---
-title: 欢迎来到粽子的知识库
+title: 欢迎~
 ---
 
-Hello world!
+Hi，欢迎来到粽子的游戏拆解知识库
 
-Write some words here!
+ ——这里会不定期分享热爱、专业与洞察
+
