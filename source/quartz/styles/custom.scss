@@ -14,7 +14,6 @@
 /* 右侧栏宽度 */
 .right.sidebar {
   width: 350px !important;
-  width: 350px !important;
 }
 
 /* 目录完整显示所有标题 */
@@ -45,8 +44,10 @@
 .toc li li li li {
   display: list-item !important;
 }
-/* 只让PDF页面全宽显示 */
+
+/* PDF会向右扩展300px占据右侧栏的空间。 */
 iframe[src*=".pdf"] {
   height: 90vh !important;
   border: none !important;
+  width: calc(100% + 350px) !important;
 }
